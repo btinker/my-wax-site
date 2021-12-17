@@ -21,7 +21,7 @@
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://btinker.github.io/my-wax-site/'
-baseurl:          '/wax'
+baseurl:          '/my-wax-site'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
